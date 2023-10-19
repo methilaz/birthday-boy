@@ -1,27 +1,27 @@
-body {
-    font-family: Arial, sans-serif;
-    text-align: center;
-    background-color: #f0f0f0;
-}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday</title>
+    <style>
+        body {
+            background-color: #3498db; /* Blue background color */
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
 
-.card {
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-    margin: 20px auto;
-    max-width: 400px;
-}
-
-h1 {
-    color: #ff6b6b;
-    font-size: 24px;
-}
-
-img {
-    max-width: 100%;
-}
-
-p {
-    font-size: 18px;
-}
+        p {
+            color: #e67e22; /* Orange font color */
+            font-size: 24px;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+    <p>Happy 20th Birthday Baby</p>
+</body>
+</html>
